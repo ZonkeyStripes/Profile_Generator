@@ -1,0 +1,19 @@
+{
+  "name": "generatorprofile",
+  "version": "1.0.0",
+  "description": "Create a command-line application that dynamically generates a PDF profile from a GitHub username. The application will be invoked with the following command:",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.19.1",
+    "electron-html-to": "^2.6.0",
+    "electron-prebuilt": "^1.4.13",
+    "init": "^0.1.2",
+    "inquirer": "^7.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
